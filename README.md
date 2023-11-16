@@ -5,28 +5,21 @@
 To design a book front cover page using HTML and CSS.
 
 ## DESIGN STEPS:
-
 ### Step 1:
 Clone the GitHub repository.
-
 ### Step 2:
 Create a Django Admin interface.
-
 ### Step 3:
 Write the HTML code with relevant CSS properties.
-
 ### Step 4:
 Choose the appropriate style and color scheme.
-
 ### Step 5:
 Validate the HTML code.
-
 ### Step 6:
 Publish the website in the given URL.
 
 ## PROGRAM:
 ~~~
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -116,7 +109,6 @@ Publish the website in the given URL.
     </style>
     <title>Book Cover Page</title>
 </head>
-
 <body>
     <div class="bookpage">
         <div class="insight">Lets GOO</div>
@@ -138,12 +130,9 @@ Publish the website in the given URL.
         <div class="ed"><b>Special Edition</b></div>
     </div>
 </bodY>
-
 </html>
 ~~~
-
 ## OUTPUT:
 ![Screenshot 2023-11-09 203312](https://github.com/santhoshs2004/cover/assets/129157717/78a974ce-2957-4fb5-92fe-29b2b16826e8)
-
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
