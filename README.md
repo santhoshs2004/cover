@@ -143,7 +143,7 @@ Publish the website in the given URL.
 ~~~
 
 ## OUTPUT:
-![Alt text](<web cover-1.png>)
-![Alt text](cover.1.png)
+![Screenshot 2023-11-09 203312](https://github.com/santhoshs2004/cover/assets/129157717/78a974ce-2957-4fb5-92fe-29b2b16826e8)
+
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
